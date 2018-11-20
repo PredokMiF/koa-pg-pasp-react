@@ -1,0 +1,11 @@
+{
+  "name": "koa-pg-pasp-react",
+  "version": "0.0.1",
+  "description": "Server teplate for koa@2 + pg + passport with reactjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konstantin Grigorchuk",
+  "license": "MIT",
+  "dependencies": {}
+}
